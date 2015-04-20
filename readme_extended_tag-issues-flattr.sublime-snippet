@@ -44,5 +44,5 @@ Here's a short explanation how to use `${2:repository}`:
 [MIT](LICENSE)
 ]]></content>
   <tabTrigger>readme</tabTrigger>
-  <description>README - extended - issues, tag and flattr</description>
+  <description>README - extended (issues, tag and flattr)</description>
 </snippet>
