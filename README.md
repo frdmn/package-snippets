@@ -4,6 +4,8 @@
 
 Sublime Text 3 text snippet to quickly create REAMDE Markdown files. 
 
+![screenshot](http://up.frd.mn/Rj5J5.gif)
+
 ## Installation
 
 1. Go to the "Packages" directory (Preferences / Browse Packages…)
