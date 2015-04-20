@@ -10,6 +10,13 @@ Sublime Text 3 text snippet to quickly create REAMDE Markdown files.
 2. Clone this repository into your Sublime Text Packages folder:  
   `git clone https://github.com/frdmn/sublime-readme-snippet`
 
+## Usage
+
+1. Create a new Sublime Text document
+2. Type `readme` and hit tab. 
+3. Select a README template and approve using return.
+4. Tab through the variables
+
 ## Contributing
 
 1. Fork it
