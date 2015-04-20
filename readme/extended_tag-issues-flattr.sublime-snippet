@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-# ${2:repository}
+# ${2:[repository]}
 
-[![Current tag](http://img.shields.io/github/tag/${1:username}/${2:repository}.svg)](https://github.com/${1:username}/${2:repository}/tags) [![Repository issues](http://issuestats.com/github/${1:username}/${2:repository}/badge/issue)](http://issuestats.com/github/${1:username}/${2:repository}) [![Flattr this repository](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=${1:username}&url=https://github.com/${1:username}/${2:repository})
+[![Current tag](http://img.shields.io/github/tag/${1:[username]}/${2:[repository]}.svg)](https://github.com/${1:[username]}/${2:[repository]}/tags) [![Repository issues](http://issuestats.com/github/${1:[username]}/${2:[repository]}/badge/issue)](http://issuestats.com/github/${1:[username]}/${2:[repository]}) [![Flattr this repository](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=${1:[username]}&url=https://github.com/${1:[username]}/${2:[repository]})
 
 ${3:description}
 
@@ -10,13 +10,13 @@ ${3:description}
 
 1. Make sure you've installed all requirements
 2. Clone this repository:
-  `git clone https://github.com/${1:username}/${2:repository}`
+  `git clone https://github.com/${1:[username]}/${2:[repository]}`
 3. Install the project using `make`:
   `make install`
 
 ## Usage
 
-Here's a short explanation how to use `${2:repository}`:
+Here's a short explanation how to use `${2:[repository]}`:
 
 * Use it
 * Profit

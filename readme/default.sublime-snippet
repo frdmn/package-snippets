@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# ${2:repository}
+# ${2:[repository]}
 
 ${3:description}
 
@@ -8,13 +8,13 @@ ${3:description}
 
 1. Make sure you've installed all requirements
 2. Clone this repository:
-  `git clone https://github.com/${1:username}/${2:repository}`
+  `git clone https://github.com/${1:[username]}/${2:[repository]}`
 3. Install the project using `make`:
   `make install`
 
 ## Usage
 
-Here's a short explanation how to use `${2:repository}`:
+Here's a short explanation how to use `${2:[repository]}`:
 
 * Use it
 * Profit
