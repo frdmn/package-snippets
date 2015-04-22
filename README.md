@@ -1,6 +1,6 @@
-# sublime-repository-snippets
+# package-snippets
 
-[![Current tag](http://img.shields.io/github/tag/frdmn/sublime-repository-snippets.svg)](https://github.com/frdmn/sublime-repository-snippets/tags) [![Repository issues](http://issuestats.com/github/frdmn/sublime-repository-snippets/badge/issue)](http://issuestats.com/github/frdmn/sublime-repository-snippets) [![Flattr this repository](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=frdmn&url=https://github.com/frdmn/sublime-repository-snippets) 
+[![Current tag](http://img.shields.io/github/tag/frdmn/package-snippets.svg)](https://github.com/frdmn/package-snippets/tags) [![Repository issues](http://issuestats.com/github/frdmn/package-snippets/badge/issue)](http://issuestats.com/github/frdmn/package-snippets) [![Flattr this repository](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=frdmn&url=https://github.com/frdmn/package-snippets) 
 
 Sublime Text 3 text snippets to quickly create `git`/GitHub related Markdown files like README or license ones. 
 
@@ -10,7 +10,7 @@ Sublime Text 3 text snippets to quickly create `git`/GitHub related Markdown fil
 
 1. Go to the "Packages" directory (Preferences / Browse Packages…)
 2. Clone this repository into your Sublime Text Packages folder:  
-  `git clone https://github.com/frdmn/sublime-repository-snippets`
+  `git clone https://github.com/frdmn/package-snippets`
 
 ## Usage
 
@@ -33,7 +33,7 @@ Sublime Text 3 text snippets to quickly create `git`/GitHub related Markdown fil
 
 ## Version
 
-1.1.0
+1.1.1
 
 ## License
 
